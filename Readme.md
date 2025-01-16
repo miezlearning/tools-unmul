@@ -26,22 +26,23 @@ Cek kuota matkul pilihan atau wajib di AIS Unmul dengan cepat.
 Isi kuisioner di AIS Unmul secara otomatis.
 - **Otomatisasi**: Mengisi kuisioner dengan cepat tanpa ribet.
 - **Efisiensi Waktu**: Hemat waktu untuk hal-hal yang lebih penting.
+- **[Lihat di GitHub](https://github.com/miezlearning/cheat-ais)**
 
 ### 5. Bikin Kelompok Otomatis
 Buat kelompok dengan memasukkan NIM 3 digit terakhir saja.
 - **Mudah Digunakan**: Cukup masukkan 3 digit terakhir NIM.
 - **Otomatisasi**: Kelompok terbentuk secara otomatis.
+- **[Lihat di GitHub](https://github.com/miezlearning/Script-Kelompok-Otomatis)**
 
 ### 6. Telegram Grup untuk Memantau Perubahan KHS dan Notifikasi Absensi STAR (Coming Soon)
 Pantau perubahan KHS dan dapatkan notifikasi absensi STAR langsung di Telegram.
 - **Real-time Updates**: Dapatkan notifikasi perubahan KHS.
 - **Notifikasi Absensi**: Pantau absensi STAR dengan mudah.
 
+Bergabung dengan [Telegram Grup](https://t.me/+lGGItiVuaR5hMGU1) untuk update terbaru dan notifikasi real-time seperti **Perubahan Nilai KHS** & **Notifikasi Absensi STAR** (*Coming Soon*).
 
 ## 📝 Catatan
 - Pastikan kamu berada di tab yang sesuai di halaman KRS atau STAR.
 - Tool ini khusus untuk mahasiswa Unmul.
 
 Selamat mencoba dan semoga bermanfaat! 🎉
-
-Bergabung dengan [Telegram Grup](https://t.me/+lGGItiVuaR5hMGU1) untuk update terbaru dan notifikasi real-time seperti **Perubahan Nilai KHS** & **Notifikasi Absensi STAR** (*Coming Soon*).
