@@ -1,2 +1,2 @@
 
-![Video Tutorial](assets/KRSHelper.mp4)
+![Video Tutorial](../assets/KRSHelper.mp4)
