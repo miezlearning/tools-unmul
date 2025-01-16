@@ -1,2 +1,2 @@
 
-![Video Tutorial](file:///C:/Users/Miez/Documents/Programming/Tools%20Unmul/assets/KRSHelper.mp4)
+![Video Tutorial](assets/KRSHelper.mp4)
